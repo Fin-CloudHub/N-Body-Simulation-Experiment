@@ -5,8 +5,6 @@ Created on Mon Mar 11 17:06:38 2024
 
 @author: finlaysime
 
-s2212677
-
 """
 
 import matplotlib.pyplot as plt
