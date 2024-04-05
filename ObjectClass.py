@@ -5,8 +5,6 @@ Created on Mon Mar 18 10:49:05 2024
 
 @author: finlaysime
 
-s2212677
-
 """
 
 import math as m
